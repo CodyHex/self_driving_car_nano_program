@@ -1,2 +1,2 @@
-# self_driving_car_nano_program
+# self_driving_car
 the homework and fun project for my nano degress
